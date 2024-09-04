@@ -1,0 +1,60 @@
+body {
+    color: #FAFAF9;
+    cursor: grab;
+    position: fixed;
+}
+
+/* html {
+  position:fixed;
+  width:100%;
+  height:100%;
+}
+*/
+
+h1 {
+    font-family: "Sora", sans-serif;
+    font-size: 18px; 
+    color: #20293A;
+}
+
+h2 {
+    font-family: "Sora", sans-serif;
+    font-size: 14px;
+    color: #6C727F;
+    font-weight:inherit;
+}
+
+h3 {
+    font-family: "Sora", sans-serif;
+    font-size: 12px;
+    color: #6C727F;
+    font-weight: inherit;
+    line-height: 4rem;
+}
+    
+.container {
+    margin-top: 20px;
+    margin-left: 30rem;
+}
+
+button {
+    font-family: "Sora", sans-serif;
+    border-radius: 40px;
+    border: 5px solid #E6D6FC;
+    background-color: #E6D6FC;
+    color: #883AE1;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+img {
+    text-align: center;
+    display: flex;
+    margin-top: 100px;
+    margin-left: 30rem;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    border-radius: 1.5rem;
+    
+}
